@@ -2,6 +2,9 @@
 
 Update your pine browser using this!
 
+# THIS IS OUTDATED!!
+This version of Pine Browser Updater is outdated and will no longer recieve updates, we are working on making a new and improved version of it. Stay tuned for news!
+
 **HOW TO UPDATE**
 
 1. Download this repository as a .zip file
